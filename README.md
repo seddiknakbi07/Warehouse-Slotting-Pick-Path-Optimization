@@ -1,1 +1,0 @@
-# Warehouse-Slotting-Pick-Path-Optimization
