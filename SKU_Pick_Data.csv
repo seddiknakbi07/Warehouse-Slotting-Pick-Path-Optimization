@@ -1,0 +1,31 @@
+SKU_ID,Product_Name,Category,Pick_Frequency_60Days,Current_Slot_ID
+SKU-013,Whole Milk 2L,Dairy,1043,E5-U
+SKU-019,Dish Soap 750ml,Cleaning Supplies,508,C1-U
+SKU-027,Hand Soap 250ml,Personal Care,320,F3-U
+SKU-008,Granola Bars 6pk,Snacks,282,B1-U
+SKU-003,Cola 6pk,Beverages,235,B3-G
+SKU-024,Bleach 1.5L,Cleaning Supplies,151,C5-G
+SKU-018,Almond Milk 1L,Dairy,151,C2-U
+SKU-029,Deodorant 85g,Personal Care,142,C3-G
+SKU-021,All-Purpose Cleaner 1L,Cleaning Supplies,141,B3-U
+SKU-016,Butter 454g,Dairy,133,F5-U
+SKU-017,Cottage Cheese 500g,Dairy,127,B4-G
+SKU-002,Orange Juice 1L,Beverages,94,D3-G
+SKU-030,Razors 4pk,Personal Care,89,B2-G
+SKU-020,Laundry Detergent 3L,Cleaning Supplies,86,E4-U
+SKU-028,Body Wash 500ml,Personal Care,85,A2-U
+SKU-012,Crackers 250g,Snacks,84,B4-U
+SKU-001,Sparkling Water 12pk,Beverages,82,C1-G
+SKU-022,Paper Towels 6pk,Cleaning Supplies,82,A3-U
+SKU-023,Glass Cleaner 500ml,Cleaning Supplies,81,F3-G
+SKU-007,Potato Chips 150g,Snacks,77,E5-G
+SKU-010,Trail Mix 300g,Snacks,65,D1-G
+SKU-011,Popcorn 100g,Snacks,63,C4-G
+SKU-015,Cheddar Cheese 400g,Dairy,60,E2-G
+SKU-026,Toothpaste 100ml,Personal Care,56,A5-G
+SKU-025,Shampoo 400ml,Personal Care,56,A3-G
+SKU-006,Bottled Water 24pk,Beverages,54,A4-U
+SKU-004,Iced Tea 1L,Beverages,50,B2-U
+SKU-014,Greek Yogurt 4pk,Dairy,50,C4-U
+SKU-009,Pretzels 200g,Snacks,41,D1-U
+SKU-005,Energy Drink 4pk,Beverages,39,E3-U
